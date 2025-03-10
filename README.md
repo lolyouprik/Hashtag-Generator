@@ -1,4 +1,4 @@
-# tHashtag Generator
+# Hashtag Generator
 
 A powerful, open-source tool for transforming text into formatted hashtags with advanced customization options.
 
