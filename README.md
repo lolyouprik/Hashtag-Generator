@@ -1,4 +1,4 @@
-# Hashtag Generator App
+# tHashtag Generator
 
 A powerful, open-source tool for transforming text into formatted hashtags with advanced customization options.
 
@@ -31,8 +31,8 @@ A powerful, open-source tool for transforming text into formatted hashtags with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/lolyouprik/https://github.com/lolyouprik/Text-to-Hashtag.git
-cd Text-to-Hashtag
+git clone https://github.com/lolyouprik/Hashtag-Generator.git
+cd Hashtag Generator
 
 # Install dependencies
 # Note: There are no dependencies for now.

@@ -22,10 +22,12 @@ By participating in this project, you agree to maintain a respectful and inclusi
 
 1. **Fork the repository** on GitHub
 2. **Clone your fork** to your local machine
+
    ```bash
-   git clone https://github.com/YOUR-USERNAME/hashtag-generator-app.git
-   cd hashtag-generator-app
+   git clone https://github.com/lolyouprik/Hashtag-Generator.git
+   cd Hashtag Generator
    ```
+
 3. **Set up the development environment**
 
    ```bash
@@ -43,6 +45,7 @@ By participating in this project, you agree to maintain a respectful and inclusi
    ```
 
 4. **Create a new branch** for your work
+
    ```bash
    git checkout -b feature/your-feature-name
    ```
@@ -117,4 +120,4 @@ Feature requests are welcome! When suggesting new features, please:
 
 ---
 
-Thank you for contributing to make the Hashtag Generator App better for everyone!
+Thank you for contributing to make the Hashtag Generator better for everyone!
