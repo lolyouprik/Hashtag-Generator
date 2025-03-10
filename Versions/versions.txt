@@ -1,5 +1,5 @@
 /CLI/ - Command Line Interface version (basic)
-   1.0 - Basic input and output with no customization options. Released 3\10\25
+   Prototype 1 - Basic input and output with no customization options. Released 3\10\25
 
 /GUI/ - Graphical User Interface version (advanced)
-   1.0 - Features basic GUI with a few customization options. Released 3\10\25
+   Prototype 1 - Features basic GUI with a few customization options. Released 3\10\25
