@@ -7,7 +7,7 @@ A powerful, open-source tool for transforming text into formatted hashtags with 
 ![Python](https://img.shields.io/badge/Python-3.7+-green.svg)
 ![Version](https://img.shields.io/badge/Version-0.1.0-orange.svg)
 
-<img src="logo.jpg" alt="Text-to-Hashtah App Logo" style="width: 200px; height: 200px;" />
+<img src="logo.jpg" alt="Text-to-Hashtah App Logo" style="width: 200px; height: 200px;"/>
 
 ## Features
 
