@@ -1,16 +1,18 @@
 # Hashtag Generator App - Development Roadmap
 
 ## Phase 1: Core Functionality (Months 1-2)
+
 - [x] Basic text-to-hashtag conversion functionality
 - [x] Simple GUI with input field and output display
 - [x] File import/export capabilities
 - [x] Basic settings (special character removal, capitalization)
 - [x] Light/dark theme support
 - [x] History tracking for generated hashtags
-- [ ] Unit tests for core functionality
+- [x] Unit tests for core functionality
 - [ ] Project documentation
 
 ## Phase 2: Enhanced User Experience (Months 3-4)
+
 - [ ] Advanced UI with resizable/customizable layout
 - [ ] Keyboard shortcuts for common actions
 - [ ] Hashtag collections/grouping feature
@@ -21,6 +23,7 @@
 - [ ] Cross-platform testing and fixes
 
 ## Phase 3: Advanced Features (Months 5-6)
+
 - [ ] Local database integration for better data management
 - [ ] SQLite implementation for hashtag history and collections
 - [ ] Multi-language support with UTF-8/Unicode handling
@@ -31,6 +34,7 @@
 - [ ] Command-line interface for scripting and automation
 
 ## Phase 4: Community and Extensions (Months 7-8)
+
 - [ ] Plugin system with documented API
 - [ ] Sample plugins and extension examples
 - [ ] Local REST API for third-party integration
@@ -41,6 +45,7 @@
 - [ ] Comprehensive API documentation
 
 ## Phase 5: Distribution and Growth (Months 9-10)
+
 - [ ] Platform-specific installers (Windows, macOS, Linux)
 - [ ] PyPI package for easy installation
 - [ ] Docker container for consistent deployment
@@ -51,6 +56,7 @@
 - [ ] Release of version 1.0
 
 ## Future Directions (Post v1.0)
+
 - [ ] Integration with free social API services
 - [ ] Advanced analytics for hashtag effectiveness (using open data)
 - [ ] Mobile application versions
@@ -61,6 +67,7 @@
 - [ ] Interactive tutorials and educational components
 
 ## Community Involvement Opportunities
+
 - UI/UX design improvements
 - Theme contributions
 - Language translations
