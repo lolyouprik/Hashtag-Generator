@@ -5,7 +5,7 @@ A powerful, open-source tool for transforming text into formatted hashtags with 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ![Python](https://img.shields.io/badge/Python-3.7+-green.svg)
-![Version](https://img.shields.io/badge/Version-0.1.0-orange.svg)
+![Version](https://img.shields.io/badge/Version-0.1.1-orange.svg)
 
 <img src="logo.jpg" alt="Text-to-Hashtah App Logo" style="width: 200px; height: 200px;"/>
 
@@ -93,7 +93,7 @@ View our full [Development Roadmap](ROADMAP.md) to see what's planned for future
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Support
 
 - GitHub Issues: For bug reports and feature requests
 - Discussions: For questions and community support
