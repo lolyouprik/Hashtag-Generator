@@ -11,7 +11,16 @@ A powerful, open-source tool for transforming text into formatted hashtags with 
 
 ## Support Me
 
-[![Support me on Ko-fi](https://storage.ko-fi.com/cdn/kofi_button.png)](https://ko-fi.com/lolyouprik)
+<!-- Ko-fi Floating Widget -->
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('lolyouprik', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 ## The Official Website
 
