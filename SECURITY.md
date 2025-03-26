@@ -14,8 +14,6 @@
 If you discover a security vulnerability in the Hashtag Generator project, we appreciate your help in disclosing it to us responsibly.
 
 **Reporting Methods:**
-- Email: security@hashtag-generator.com
-- GitHub Security Advisory
 - Direct message to project maintainers
 
 ### What to Include
