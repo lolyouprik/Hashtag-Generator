@@ -9,7 +9,11 @@ A powerful, open-source tool for transforming text into formatted hashtags with 
 
 <img src="logo.jpg" alt="Text-to-Hashtah App Logo" style="width: 200px; height: 200px;"/>
 
-## Our Website
+## Support Me
+
+[![Support me on Ko-fi](https://storage.ko-fi.com/cdn/kofi_button.png)](https://ko-fi.com/lolyouprik)
+
+## The Official Website
 
 https://lolyouprik.github.io/Hashtag-Generator-Website/
 
