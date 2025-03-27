@@ -9,6 +9,12 @@ A powerful, open-source tool for transforming text into formatted hashtags with 
 
 <img src="logo.jpg" alt="Text-to-Hashtah App Logo" style="width: 200px; height: 200px;"/>
 
+
+
+## The Official Website
+
+https://lolyouprik.github.io/Hashtag-Generator-Website/
+
 ## Features
 
 - **Instant Transformation**: Convert text to properly formatted hashtags in real-time
@@ -88,6 +94,12 @@ pip install -r requirements.txt
 ## Project Roadmap
 
 View our full [Development Roadmap](ROADMAP.md) to see what's planned for future releases.
+
+## Support Me
+
+<a href="https://ko-fi.com/R6R51CIYSP" target="_blank">
+  <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" border="0" alt="Buy Me a Coffee at ko-fi.com" />
+</a>
 
 ## License
 
